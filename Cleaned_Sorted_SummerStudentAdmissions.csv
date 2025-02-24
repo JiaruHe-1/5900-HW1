@@ -17,10 +17,10 @@ Admit,Colorado,3.6,1.2,967.0,94,Male,2,1061.0,Low
 Admit,Colorado,3.65,1.7,963.0,90,Female,1,1053.0,Low
 Admit,Colorado,3.75,1.1,969.0,93,Male,0,1062.0,Low
 Admit,Colorado,3.78,1.2,966.0,90,Female,4,1056.0,Low
-Admit,Colorado,3.816470588235294,0.8,969.0,93,Male,1,1062.0,Low
 Admit,Colorado,3.88,1.0,969.0,93,Female,4,1062.0,Low
 Admit,Colorado,3.9,3.8,967.0,98,Male,3,1065.0,Medium
 Admit,Colorado,3.92,1.2,969.0,95,Male,3,1064.0,Low
+Admit,Colorado,4.0,0.8,969.0,93,Male,1,1062.0,Low
 Admit,Florida,3.5,0.7,965.0,91,Female,1,1056.0,Low
 Admit,Florida,3.54,0.7,965.0,90,Male,1,1055.0,Low
 Admit,Florida,3.55,0.0,962.0,97,Female,0,1059.0,Low
